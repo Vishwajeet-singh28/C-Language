@@ -29,5 +29,4 @@ struct student{
      }
      free(s);
      return 0;
-     
  }
